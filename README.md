@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ### This is a third-level heading using markdown
 <p>This is a subheading to be used when logically breaking up a primary idea</p>
 
-## Below is manipulation of text using markdown
+## Below is styling of text using markdown
 **This is bold text using markdown** <br>
 _This text is italicized using markdown_  <br>
 ~~This was mistaken text using markdown~~ <br>
