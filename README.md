@@ -19,10 +19,16 @@
 DaveBloomberg/DaveBloomberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Below is an example of my use of markdown | this is a top-level heading
-## This is a second-level heading using markdown
-### This is a third-level heading using markdown
+# Below is an example of my use of markdown for documentation
+<p>Here you will be able to evaluate my use of markdown in git as an example of my ability to use this feature</p>
 
+## This is a second-level heading using markdown
+<p>This encompasses a primary thought or idea</p>
+
+### This is a third-level heading using markdown
+<p>This is a subheading to be used when logically breaking up a primary idea</p>
+
+## Below is manipulation of text using markdown
 **This is bold text using markdown** <br>
 _This text is italicized using markdown_  <br>
 ~~This was mistaken text using markdown~~ <br>
@@ -32,6 +38,9 @@ regular text<sub>This is a subscript text using markdown</sub>  <br>
 regular text<sup>This is a superscript text using markdown</sup>  <br>
 > Text that is a quote using markdown  <br>
 > This is a second line of quote text  <br>
+## Here I will show examples of using lists
+<p>You will be able to gauge my use of lists from the following subheadings </p>
+
 ### Below is an unordered list using markdown
 - list item 1
 - list item 3
@@ -43,13 +52,13 @@ regular text<sup>This is a superscript text using markdown</sup>  <br>
 3. list item 3
 
 ### Below is a nested list
-100. first list item
+1. first list item
       - first nested list item
          - second nested list item
 4. second list item
      - first nested list item of the second list item
 6. third list item
-### Below is a paragraph of placeholder text 
+## Below is a paragraph of placeholder text 
 <p>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
